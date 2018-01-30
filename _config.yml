@@ -1,2 +1,1 @@
-theme: jekyll-theme-tactile
-include: ["training/index.html"]
+remote-theme: aksakalli/jekyll-doc-theme
