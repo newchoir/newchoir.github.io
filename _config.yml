@@ -1,2 +1,2 @@
 theme: jekyll-theme-slate
-include: [training]
+include: ["training/index.html"]
