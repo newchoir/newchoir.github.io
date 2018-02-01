@@ -1,6 +1,6 @@
 ## Welcome to newchoir training
 
-[Tenor](https://newchoir.github.io/training/?section=tenor)
+[Tenors click here](https://newchoir.github.io/training/?section=tenor)
 
 [Training](training)
 
