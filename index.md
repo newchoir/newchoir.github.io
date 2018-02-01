@@ -1,7 +1,8 @@
 ## Welcome to newchoir training
 
 [Tenor](https://newchoir.github.io/training/?section=tenor)
-[Link to another page](another-page)
+
+[Training](training)
 
 You can use the [editor on GitHub](https://github.com/newchoir/newchoir.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
