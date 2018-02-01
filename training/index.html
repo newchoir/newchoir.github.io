@@ -93,7 +93,10 @@ layout: default
 				myTable+= '<td></td>';
 			}
 
-			myTable+= (data[i].pdfUrl.length > 0) ? '<td><a href="'+ $pdfPrefix + data[i].pdfUrl + $pdfSuffix + '" target="_self">PDF</a></td>' : '<td></td>';
+			if (data[i].pdfUrl.indexof("facebook") > 0)
+				myTable += '<td><a href="'+ data[i].pdfUrl + '" target="_self">FB</a></td>'
+			else
+				myTable+= (data[i].pdfUrl.length > 0) ? '<td><a href="'+ $pdfPrefix + data[i].pdfUrl + $pdfSuffix + '" target="_self">PDF</a></td>' : '<td></td>';
 			
 			myTable+='</tr>';
 		}
